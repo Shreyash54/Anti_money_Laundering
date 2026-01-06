@@ -1,10 +1,10 @@
-# 🚨 AML Graph Intelligence System
+#AML Graph Intelligence System
 
-### *End-to-End Anti–Money Laundering Detection using Graph Neural Networks*
+### *Anti–Money Laundering Detection using Graph Neural Networks*
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project presents an **end-to-end Anti–Money Laundering (AML) detection system** that leverages **graph analytics, Graph Neural Networks (GNNs), and explainable AI techniques** to identify suspicious financial behavior in transaction data.
 
@@ -28,7 +28,7 @@ The system is designed using **Apache Spark**, **GraphFrames**, **PyTorch Geomet
 - Visual analytics of transaction networks  
 
 ---
-## 🧩 System Architecture
+##  System Architecture
 
 - **Raw Transactions**
   - Data Cleaning & Parsing (Spark)
@@ -42,7 +42,7 @@ The system is designed using **Apache Spark**, **GraphFrames**, **PyTorch Geomet
 
 
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 | Component       | Technology                 |
 |-----------------|----------------------------|
@@ -55,7 +55,7 @@ The system is designed using **Apache Spark**, **GraphFrames**, **PyTorch Geomet
 
 ---
 
-## 🔬 Pipeline Summary
+##  Pipeline Summary
 
 1. **Data Ingestion** – Transactional CSV files are ingested and cleaned using Spark.  
 2. **Graph Construction** – Accounts become nodes, transactions become directed edges.  
@@ -65,7 +65,7 @@ The system is designed using **Apache Spark**, **GraphFrames**, **PyTorch Geomet
 
 ---
 
-## 📊 Model Evaluation
+## Model Evaluation
 
 Performance is measured using:  
 - Accuracy  
